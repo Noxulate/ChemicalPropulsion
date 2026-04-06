@@ -1,32 +1,32 @@
-- [ ] BDB compatibility
-	- [ ] Try to figure out how to modify or extend the existing automatic patches to try to catch as much BDB stuff as possible
-	- [ ] Make parts work
-		- [ ] Able
-		- [ ] Agena
-		- [ ] Apollo
-		- [ ] Atlas
-		- [ ] AtlasV
-		- [ ] Centaur
-		- [ ] Delta
-		- [ ] Engines
-		- [ ] Gemini
-		- [ ] Generic
-		- [ ] Hexagon
-		- [ ] Jupiter
-		- [ ] LDC
-		- [ ] LaunchClamps
-		- [ ] MOL
-		- [ ] Mercury
-		- [ ] ProbeExpansion
-		- [ ] Redstone
-		- [ ] SAF_Fairings
-		- [ ] Saturn
-		- [ ] Science
-		- [ ] Shared
-		- [ ] Skylab
-		- [ ] Solids
-		- [ ] Thor
-		- [ ] Timberwind
-		- [ ] Vanguard
-		- [ ] Vega
-		- [ ] X15
+- [X] BDB compatibility
+	- [X] Try to figure out how to modify or extend the existing automatic patches to try to catch as much BDB stuff as possible
+	- [X] Make parts work
+		- [X] Able
+		- [X] Agena
+		- [X] Apollo
+		- [X] Atlas
+		- [X] AtlasV
+		- [X] Centaur
+		- [X] Delta
+		- [X] Engines
+		- [X] Gemini
+		- [X] Generic
+		- [X] Hexagon
+		- [X] Jupiter
+		- [X] LDC
+		- [X] LaunchClamps
+		- [X] MOL
+		- [X] Mercury
+		- [X] ProbeExpansion
+		- [X] Redstone
+		- [X] SAF_Fairings
+		- [X] Saturn
+		- [X] Science
+		- [X] Shared
+		- [X] Skylab
+		- [X] Solids
+		- [X] Thor
+		- [X] Timberwind
+		- [X] Vanguard
+		- [X] Vega
+		- [X] X15
